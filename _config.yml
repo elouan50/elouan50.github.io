@@ -53,7 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
   I am currently looking for an open position in an IT-related job, starting from Summer 2025:
   <mark>Software Development</mark>, <mark>Machine Learning</mark>, related fields.
 
-  I'm 23 years old and have obtained my Driver's Licence in France in 2019. Have a look at who I am:
+  I'm 23 years old and have obtained my Driver's Licence in France in 2019.
+  Please take a look at my professional/academical experience, and my centers of interest!
 
 content:
   - title: Professional Experience # Title for the section
@@ -62,20 +63,93 @@ content:
       - layout: left
         title: GOTO Games
         link: https://goto-games.com
-        link_text: goto-games.com
-        sub_title: Internship
+        link_text: www.goto-games.com
+        sub_title: Internship, Villeneuve d'Ascq (France)
         caption: April 2023 - August 2023
         quote: >
-          Founded more than 30 years ago, GOTO Games has become a leader of online card games.
+          Founded more than 30 years ago, GOTO Games has become a world leader of online card games.
           Its vitrine product Funbridge is in a permanent growth to seduce new players.
         description: | # this will include new lines to allow paragraphs
-            Developed the back-end of the new online shop for a website (PHP Symfony), in a team of 4. Bi-weekly sprints, daily meetings.
+            - Developed the back-end of the new online shop for a website (PHP Symfony), in a team of 4. Bi-weekly sprints, daily meetings.
             
-            Resolved tickets for diverse projects = (Frameworks PHP Symfony and React JD, Nginx configuration), reported bugs.
+            - Resolved tickets for diverse projects = (Frameworks PHP Symfony and React JD, Nginx configuration), reported bugs.
             
-            Developed a website (with Wordpress).
+            - Responsible for developing a website (with Wordpress), multiple meetings with the clients to discuss the possibilities and meet their expectations.
+            Still available at <a href="https://canastajunction.com" target="_blank">canastajunction.com</a> even if it evolved a bit since then.
             
-            Communicated on social networks about a company event (@l_echappee52 on Instagram).
+            - Communicated on social networks about a company event
+            (<a href="https://instagram.com/l_echappee52" target="_blank">@l_echappee52</a> on Instagram)
+            which consisted of riding 1200km from North to South of France on a bike.
+
+      - layout: left
+        title: École Centrale de Nantes
+        link: https://ec-nantes.fr
+        link_text: www.ec-nantes.fr
+        sub_title: Nantes (France)
+        quote: >
+          Founded in 1919, the École Centrale de Nantes is one of the oldest and most prestigious Engineering Schools in France.
+          Among the 500 students graduating each year, half of them obtain an international double degree.
+          The school delivers a General Engineering degree (equivalent to a M.Sc.), contributing to the reputation of excellence of french engineers abroad.
+
+      - layout: left
+        sub_title: Group Project
+        caption: September 2022 - March 2023
+        description: |
+            - Coordinated a team of 7 students, and communicated with a client.
+            - Developed a HR software for a local research laboratory (LS2N),
+            including database management and secure authentication.
+            - Imported current data from an Excel file to a SQL database.
+
+      - layout: left
+        sub_title: Bridge Teacher
+        caption: February 2022 - March 2023
+        description: |
+            - Founded a club in the Engineering School.
+            - Taught beginners how to play (approximatively 20 students), and lead them to play their first competitions.
+            - Employed by the French Bridge Federation (FFB).
+
+      - layout: left
+        sub_title: Student associative engagement
+        caption: September 2021 - March 2023
+        description: |
+            - <b>President of Apiculture Association:</b> learning beekeeping with a professional,
+            educating students, collecting and selling honey. Budget ~4,000€.
+
+            - <b>Treasurer of the <i>Week-End Nantralien (WEN)</i>:</b> planning the gala alongside the graduating ceremony,
+            and some associated communication events, in a team of 10. Budegt ~35,000€.
+
+            - <b>Treasurer of a <i>Students' Bureau</i> list:</b> managing the finances for a team of 45 people
+            before and during electoral campaigns. Budget ~10,000€.
+
+      - layout: left
+        title: Techneau
+        link: https://www.techneau.com
+        link_text: www.techneau.com
+        sub_title: Internship, Marigny-le-Lozon (France)
+        caption: June 2022 - August 2022
+        quote: >
+          Specialized in water treatment tanks, Techneau grew and expanded while keeping its roots.
+          Still keeping its headsquarters in Normandy, they have diversified their production and export abroad.
+        description: |
+            - Built water treatment tanks, by taking a raw plastic shell and installing pipes, screws and pumps.
+
+            - R&D in the design office, helping to set up and analyze tests for water-resistance of joints.
+
+            - Worked as a warehouse assistant.
+
+            - Manipulation of a SAP software (ERP, Enterprise Resource Planning).
+            
+            - Job shadowing for different positions in the company.
+
+      - layout: left
+        title: Collège Stendhal
+        sub_title: Middle School Tutor, Nantes (France)
+        caption: September 2021 - June 2022
+        description: |
+            - Helped young students (niveau 3ème in France, equivalent to 9. Klasse in Germany) in all school topics.
+
+            - Prepared with them the <i>Brevet des Collèges</i> (Middle School degree).
+            Specific work in English, Mathematics, History & Geography.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
