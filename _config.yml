@@ -48,7 +48,7 @@ linkedin_username: elouan-colybes-44992b1b8
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Elouan and I am am a Master student at the RWTH Aachen University and École Centrale de Nantes
+  Hi, my name is Elouan and I'm a Master student at the RWTH Aachen University and École Centrale de Nantes
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -110,7 +110,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
