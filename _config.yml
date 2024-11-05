@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Software Development</mark>, <mark>Machine Learning</mark>, related fields.
 
   I'm 23 years old and have obtained my Driver's Licence in France in 2019.
-  Please take a look at my professional/academical experience, and my centers of interest!
+  Please take a look at my professional and academical experience, and my centers of interest!
 
 content:
   - title: Professional Experience # Title for the section
@@ -69,10 +69,10 @@ content:
         quote: >
           Founded more than 30 years ago, GOTO Games has become a world leader of online card games.
           Its vitrine product Funbridge is in a permanent growth to seduce new players.
-        description: | # this will include new lines to allow paragraphs
+        description: |
             - Developed the back-end of the new online shop for a website (PHP Symfony), in a team of 4. Bi-weekly sprints, daily meetings.
             
-            - Resolved tickets for diverse projects = (Frameworks PHP Symfony and React JD, Nginx configuration), reported bugs.
+            - Resolved tickets for diverse projects (Frameworks PHP Symfony and React JD, Nginx configuration), reported bugs.
             
             - Responsible for developing a website (with Wordpress), multiple meetings with the clients to discuss the possibilities and meet their expectations.
             Still available at <a href="https://canastajunction.com" target="_blank">canastajunction.com</a> even if it evolved a bit since then.
@@ -95,7 +95,7 @@ content:
         sub_title: Group Project
         caption: September 2022 - March 2023
         description: |
-            - Coordinated a team of 7 students, and communicated with a client.
+            - Coordinated a team of 7 students, the communication with the client and the reports to our teacher.
             - Developed a HR software for a local research laboratory (LS2N),
             including database management and secure authentication.
             - Imported current data from an Excel file to a SQL database.
@@ -151,7 +151,7 @@ content:
             - Prepared with them the <i>Brevet des Collèges</i> (Middle School degree).
             Specific work in English, Mathematics, History & Geography.
 
-  - title: Education # Title for the section
+  - title: Education
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -200,17 +200,61 @@ content:
 
           European Mention (option)
 
+  - title: Personal Distinctions
+    layout: list
+    content:
+      - layout: left
+        title: Bridge Competiting
+        sub_title: Card games competitive practice
+        caption: Since 2014
+        quote: >
+          The Bridge is one of the most complex card games, and also one of the most developed. Most countries have their own federation and national teams.
+        description: |
+            - Normandy champion (Espérance /4 and /2) in 2018
+            - U18 national finals (/4 and /2) in 2017, 2018, 2019
+            - U31 national finals (/4) in 2019, 2023, 2024
+
+            Regular training practice in Nantes (2022 - 2023), Lille (2023), Aachen (2023 - now)
+            
+      - layout: left
+        title: Olympiades de Chimie
+        sub_title: Chemistry Olympiads, France
+        caption: 2018 - 2019
+        quote: >
+          France-wide chemistry competition for last-year High School students.
+        description: |
+            - December 2018: qualification for the regional final (Normandy)
+            - February 2019: Regional Champion (Normandy)
+            - April 2019: 25th of the national final in Paris
+            
+      - layout: left
+        title: Concours de plaidoiries
+        sub_title: Pleading Competition
+        caption: March 2017
+        quote: >
+          Pleading competiton organized between high schools in Saint-Lô, France.
+        description: |
+            - Intern qualification in my High School.
+            - Pleading in front of 400 students and a jury for the <i>Human Rights for Syrian migrants</i>.
+            - Ranked 4th in 10 competitors.
+           
+      - layout: left
+        title: Concours Castor/Algoréa
+        link: https://algorea.org
+        link_text: algorea.org
+        sub_title: Programming Competition
+        caption: 2013 - 2018
+        quote: >
+          Algoréa is a programming competition in Python for all middle and high school pupils in France.
+        description: |
+            - Qualified 3 times to the quarters of finals (2013, 2016, 2017)
+            - Qualified 2 times to the semi finals (2014 and 2015).
+           
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      wait for it
 
 # Footer
 footer_show_references: true
