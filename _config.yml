@@ -155,15 +155,50 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: RWTH Aachen University
+        caption: 2023 - 2025
+        sub_title: M.Sc. Electrical Engineering, Information Theory and Computer Engineering
+        description: |
+          Specialization in <a href="https://www.elektrotechnik.rwth-aachen.de/go/id/qhiq/lidx/1" target="_blank">Computer Engineering</a>.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I have had classes in domains of <mark>Hardware design</mark>, <mark>Virtual Reality</mark>, <mark>AI & Machine Learning</mark>.
+
+          I currently write my Master's Thesis on the following topic: <i><u>Deep Compression Techniques in Federated Learning: Towards Lightweight and energy-Efficient Distributed Intelligence</u></i>
+
+      - layout: left
+        title: École Centrale de Nantes
+        caption: 2021 - 2025
+        sub_title: Engineering Programme - "Diplôme d'Ingénieur"
+        description: |
+          Highly selective French School of Engineering.
+
+          - <i>1st year:</i> General applied Engineering topics (<mark>Mathematics</mark>, <mark>Mechanical, Electrical & Industrial Engineering</mark>, <mark>Control</mark>, <mark>Computer Science</mark>)
+
+          - <i>2nd year:</i> IT specialization (<mark>Software development</mark>, <mark>Web development</mark>, <mark>Project Management</mark>, <mark>Discrete Mathematics</mark>, <mark>IT security</mark>), <mark>Management Skills</mark>.
+
+          - <i>3rd year:</i> double-degree in RWTH Aachen University
+
+          With a big implication in the associative life of the School, I also acquired much experience: <mark>Team Management</mark>, <mark>Budget Management</mark>, <mark>Leadership skills</mark>.
+
+      - layout: left
+        title: Lycée Chateaubriand, Rennes
+        caption: 2019 - 2021
+        sub_title: Classe préparatoire (<i>prep school</i>)
+        description: |
+          2-years intensive program preparing for the national competitive exams for French Schools of Engineering.
+
+          Advanced courses in Mathematics, Physics, Computer & Engineering Sciences, Philosophy, English.
+
+      - layout: left
+        title: Lycée Curie-Corot, Saint-Lô
+        caption: 2019
+        sub_title: Scientific Baccalauréat
+        description: |
+          <i>French High School degree</i>
+          
+          Advanced courses in Mathematics, Physics and Engineering Science.
+
+          European Mention (option)
 
   - title: A Little More About Me
     layout: text
