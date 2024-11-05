@@ -72,7 +72,7 @@ content:
         description: |
             - Developed the back-end of the new online shop for a website (PHP Symfony), in a team of 4. Bi-weekly sprints, daily meetings.
             
-            - Resolved tickets for diverse projects (Frameworks PHP Symfony and React JD, Nginx configuration), reported bugs.
+            - Resolved tickets for diverse projects (Frameworks PHP Symfony and React JS, Nginx configuration), reported bugs.
             
             - Responsible for developing a website (with Wordpress), multiple meetings with the clients to discuss the possibilities and meet their expectations.
             Still available at <a href="https://canastajunction.com" target="_blank">canastajunction.com</a> even if it evolved a bit since then.
@@ -230,6 +230,8 @@ content:
             - December 2018: qualification for the regional final (Normandy)
             - February 2019: Regional Champion (Normandy)
             - April 2019: 25th of the national final in Paris
+
+            <a href="https://www.ouest-france.fr/normandie/saint-lo-50000/saint-lo-le-lycee-corot-curie-aux-olympiades-de-chimie-6284115" target="_blank">Press article</a>
             
       - layout: left
         title: Concours de plaidoiries
@@ -243,20 +245,23 @@ content:
             Pleading in front of 400 students and a jury for the <i>Human Rights for Syrian migrants</i>.
             
             Ranked 4th in 10 competitors.
+
+            <a href="https://www.ouest-france.fr/normandie/saint-lo-50000/saint-lo-lou-et-diane-remportent-le-concours-de-plaidoirie-4896849" target="_blank">Press article</a>
            
       - layout: left
         title: Concours Castor/Algoréa
         link: https://algorea.org
         link_text: algorea.org
         sub_title: Programming Competition
-        caption: 2013 - 2018
+        caption: 2014 - 2018
         quote: >
           Algoréa is a programming competition in Python for all middle and high school pupils in France.
         description: |
-            Qualified 3 times to the quarters of finals (2013, 2016, 2017)
+            Qualified 3 times to the quarters of finals (2014, 2017, 2018)
             
-            Qualified 2 times to the semi finals (2014 and 2015).
-           
+            Qualified 2 times to the semi finals (2015 and 2016).
+
+            <a href="https://www.ouest-france.fr/normandie/marigny-50570/quatre-collegiens-forts-en-maths-ont-brille-3418782" target="_blank">Press article</a>
 
   - title: Relevant Skills
     layout: list
