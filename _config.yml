@@ -163,7 +163,7 @@ content:
 
           I have had classes in domains of <mark>Hardware design</mark>, <mark>Virtual Reality</mark>, <mark>AI & Machine Learning</mark>.
 
-          I currently write my Master's Thesis on the following topic: <i><u>Deep Compression Techniques in Federated Learning: Towards Lightweight and energy-Efficient Distributed Intelligence</u></i>
+          I currently write my Master's Thesis on the following topic: <i><u>Deep Compression Techniques in Federated Learning: Towards Lightweight and Energy-Efficient Distributed Intelligence</u></i>
 
       - layout: left
         title: École Centrale de Nantes
@@ -204,12 +204,14 @@ content:
     layout: list
     content:
       - layout: left
-        title: Bridge Competiting
+        title: Bridge Competing
         sub_title: Card games competitive practice
         caption: Since 2014
         quote: >
-          The Bridge is one of the most complex card games, and also one of the most developed. Most countries have their own federation and national teams.
+          Bridge is one of the most complex card games, and also one of the most developed. Most countries have their own federation and national teams.
         description: |
+            Multiple competition participations:
+
             - Normandy champion (Espérance /4 and /2) in 2018
             - U18 national finals (/4 and /2) in 2017, 2018, 2019
             - U31 national finals (/4) in 2019, 2023, 2024
@@ -218,11 +220,13 @@ content:
             
       - layout: left
         title: Olympiades de Chimie
-        sub_title: Chemistry Olympiads, France
+        sub_title: Chemistry Olympiads
         caption: 2018 - 2019
         quote: >
-          France-wide chemistry competition for last-year High School students.
+          France-wide chemistry competition for last-year high school students.
         description: |
+            3 stages of competition:
+
             - December 2018: qualification for the regional final (Normandy)
             - February 2019: Regional Champion (Normandy)
             - April 2019: 25th of the national final in Paris
@@ -234,9 +238,11 @@ content:
         quote: >
           Pleading competiton organized between high schools in Saint-Lô, France.
         description: |
-            - Intern qualification in my High School.
-            - Pleading in front of 400 students and a jury for the <i>Human Rights for Syrian migrants</i>.
-            - Ranked 4th in 10 competitors.
+            Intern qualification in my High School.
+            
+            Pleading in front of 400 students and a jury for the <i>Human Rights for Syrian migrants</i>.
+            
+            Ranked 4th in 10 competitors.
            
       - layout: left
         title: Concours Castor/Algoréa
@@ -247,14 +253,54 @@ content:
         quote: >
           Algoréa is a programming competition in Python for all middle and high school pupils in France.
         description: |
-            - Qualified 3 times to the quarters of finals (2013, 2016, 2017)
-            - Qualified 2 times to the semi finals (2014 and 2015).
+            Qualified 3 times to the quarters of finals (2013, 2016, 2017)
+            
+            Qualified 2 times to the semi finals (2014 and 2015).
            
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      wait for it
+  - title: Relevant Skills
+    layout: list
+    content:
+      - layout: left
+        title: Languages
+        description: |
+            English: Fluent, professional skills (TOEIC 950)
+
+            French: Native speaker
+
+            German: Practical knowledge
+
+            Spanish: Basic knowledge
+
+      - layout: left
+        title: IT
+        description: |
+            Excellent working knowledge of Microsoft Word, Excel, PowerPoint.
+
+            Programming experience in Python, PHP, Matlab, SQL, Java, JavaScript, C++.
+
+            Familiar with Simulink, LabVIEW, SolidWorks, PowerBI.
+                   
+  - title: Interests
+    layout: list
+    content:
+      - layout: left
+        title: Sports
+        description: |
+            Ultimate Frisbee: competitive practice (2024 - now in Aachen)
+
+            Table Tennis: comptetitive practice (2011 - 2019)
+
+            Road Cycling: practice since April 2023. In June 2023: 1200km in 10 days from Lille to Marseille.
+
+            Bridge: card game, competitive prcatice (2016 - now)
+
+      - layout: left
+        title: Others
+        description: |
+            I like to go outside and practice any sport or spend time with friends.
+            
+            I also enjoy making personal projects and wooden objects.
 
 # Footer
 footer_show_references: true
