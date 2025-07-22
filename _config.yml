@@ -16,13 +16,13 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyll
-github_username:  elouan50
+github_username: elouan50
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: elouan-colybes-44992b1b8
+linkedin_username: elouan-colybes
 strava_username: 116980888
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -53,13 +53,29 @@ about_content: | # this will include new lines to allow paragraphs
   I am currently looking for an open position in an IT-related job, starting from Summer 2025:
   <mark>Software Development</mark>, <mark>Machine Learning</mark>, related fields.
 
-  I'm 23 years old and have obtained my Driver's Licence in France in 2019.
-  Please take a look at my professional and academical experience, and my centers of interest!
+  I'm 24 years old and have obtained my Driver's License in France in 2019.
+  Please take a look at my professional and academic experience, and my centers of interest!
 
 content:
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: RWTH Aachen University
+        link: https://www.rwth-aachen.de
+        link_text: www.rwth-aachen.de
+        sub_title: Scientific Assistant, Aachen (Germany)
+        caption: August 2025 - October 2025
+        quote: >
+          One of the largest and most prestigious technical universities in Germany.
+          RWTH Aachen University is known for its research and teaching in engineering, natural sciences, and technology.
+        description: |
+            - Conducted research in the field of <mark>Federated Learning</mark> and <mark>Deep Compression Techniques</mark>.
+            
+            - Wrote a scientific paper on the topic of my Master's Thesis: <i><u>Deep Compression Techniques in Federated Learning: Towards Lightweight and Energy-Efficient Distributed Intelligence</u></i>.
+            
+            - Designed comprehensive experiments to evaluate the performance of the proposed framework in Federated Learning scenarios.
+
       - layout: left
         title: GOTO Games
         link: https://goto-games.com
@@ -70,12 +86,13 @@ content:
           Founded more than 30 years ago, GOTO Games has become a world leader of online card games.
           Its vitrine product Funbridge is in a permanent growth to seduce new players.
         description: |
-            - Developed the back-end of the new online shop for a website (PHP Symfony), in a team of 4. Bi-weekly sprints, daily meetings.
+            - Worked on <mark>Back-End Development</mark> of the new online shop for a website (PHP Symfony), in a team of 4. Bi-weekly sprints, daily meetings.
             
             - Resolved tickets for diverse projects (Frameworks PHP Symfony and React JS, Nginx configuration), reported bugs.
             
-            - Responsible for developing a website (with Wordpress), multiple meetings with the clients to discuss the possibilities and meet their expectations.
-            Still available at <a href="https://canastajunction.com" target="_blank">canastajunction.com</a> even if it evolved a bit since then.
+            - Responsible for developing a website (with <mark>Wordpress</mark>),
+            multiple meetings with the clients to discuss the possibilities and meet their expectations.
+            Still available at <a href="https://canastajunction.com" target="_blank">canastajunction.com</a>, though it has evolved since then.
             
             - Communicated on social networks about a company event
             (<a href="https://instagram.com/l_echappee52" target="_blank">@l_echappee52</a> on Instagram)
@@ -129,13 +146,13 @@ content:
         caption: June 2022 - August 2022
         quote: >
           Specialized in water treatment tanks, Techneau grew and expanded while keeping its roots.
-          Still keeping its headsquarters in Normandy, they have diversified their production and export abroad.
+          Still keeping its headquarters in Normandy, they have diversified their production and export abroad.
         description: |
             - Built water treatment tanks, by taking a raw plastic shell and installing pipes, screws and pumps.
 
-            - R&D in the design office, helping to set up and analyze tests for water-resistance of joints.
+            - Worked in R&D within the design office, helping to set up and analyze tests for water-resistance of joints.
 
-            - Worked as a warehouse assistant.
+            - Worked a day as a warehouse assistant.
 
             - Manipulation of a SAP software (ERP, Enterprise Resource Planning).
             
@@ -163,7 +180,7 @@ content:
 
           I have had classes in domains of <mark>Hardware design</mark>, <mark>Virtual Reality</mark>, <mark>AI & Machine Learning</mark>.
 
-          I currently write my Master's Thesis on the following topic: <i><u>Deep Compression Techniques in Federated Learning: Towards Lightweight and Energy-Efficient Distributed Intelligence</u></i>
+          I wrote my Master's Thesis on the following topic: <i><u>Deep Compression Techniques in Federated Learning: Towards Lightweight and Energy-Efficient Distributed Intelligence</u></i>
 
       - layout: left
         title: École Centrale de Nantes
@@ -212,11 +229,27 @@ content:
         description: |
             Multiple competition participations:
 
-            - Normandy champion (Espérance /4 and /2) in 2018
+            - Normandy champion (Espérance /4) in 2018
+            - Normandy champion (Promotion /4) in 2019
             - U18 national finals (/4 and /2) in 2017, 2018, 2019
-            - U31 national finals (/4) in 2019, 2023, 2024
+            - U31 national finals (/4) in 2019, 2023, 2024, 2025
+            - U31 national finals (/2) in 2025
 
             Regular training practice in Nantes (2022 - 2023), Lille (2023), Aachen (2023 - now)
+
+      - layout: left
+        title: Ultimate Frisbee
+        sub_title: Competitive practice
+        caption: 2023 - 2025
+        quote: >
+          Ultimate Frisbee is a team sport played with a flying disc, combining elements of soccer, basketball, and American football.
+          It emphasizes sportsmanship and fair play, known as "Spirit of the Game".
+        description: |
+            Participation in multiple competitions in France and Germany:
+            - 2023: <i>Challenge Centrale Lyon</i> - Champion
+            - 2024: <i>3. Liga NW Open Outdoor</i> - First experience in Germany
+            - 2025: <i>3. Liga NW Open Indoor</i> - Vice-champion
+            - 2025: <i>1. Liga Open Outdoor</i> - result pending
             
       - layout: left
         title: Olympiades de Chimie
@@ -259,7 +292,7 @@ content:
         description: |
             Qualified 3 times to the quarters of finals (2014, 2017, 2018)
             
-            Qualified 2 times to the semi finals (2015 and 2016).
+            Qualified 2 times to the semi finals (2015 and 2016)
 
             <a href="https://www.ouest-france.fr/normandie/marigny-50570/quatre-collegiens-forts-en-maths-ont-brille-3418782" target="_blank">Press article</a>
 
@@ -269,20 +302,20 @@ content:
       - layout: left
         title: Languages
         description: |
-            English: Fluent, professional skills (TOEIC 950)
-
             French: Native speaker
 
-            German: Practical knowledge
+            English: Fluent, professional skills (C1, TOEIC 950)
 
-            Spanish: Basic knowledge
+            German: Fluent, very good skills (C1)
+
+            Spanish: Basic knowledge (A1/A2)
 
       - layout: left
         title: IT
         description: |
             Excellent working knowledge of Microsoft Word, Excel, PowerPoint.
 
-            Programming experience in Python, PHP, Matlab, SQL, Java, JavaScript, C++.
+            Programming experience in Python, PHP, MATLAB, SQL, Java, JavaScript, C++.
 
             Familiar with Simulink, LabVIEW, SolidWorks, PowerBI.
                    
@@ -294,18 +327,18 @@ content:
         description: |
             Ultimate Frisbee: competitive practice (2023 - now in Aachen)
 
-            Table Tennis: comptetitive practice (2011 - 2019)
+            Table Tennis: competitive practice (2011 - 2019)
 
-            Road Cycling: practice since April 2023. In June 2023: 1200km in 10 days from Lille to Marseille.
+            Road Cycling: practice since April 2023. In June 2023: 1200km in 10 days from Lille to Marseille
 
-            Bridge: card game, competitive prcatice (2016 - now)
+            Bridge: card game, competitive practice (2016 - now)
 
       - layout: left
         title: Others
         description: |
             I like to go outside and practice any sport or spend time with friends.
             
-            I also enjoy making personal projects and wooden objects.
+            I also enjoy making personal projects and handcrafting small objects.
 
 # Footer
 footer_show_references: true
