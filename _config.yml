@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Elouan COLYBES
-title: M.Sc. Student
+title: Dipl.Ing., M.Sc.
 email: elouan.colybes@gmail.com
 website: https://elouan50.github.io
 
@@ -50,14 +50,63 @@ about_content: | # this will include new lines to allow paragraphs
   <a href="https://rwth-aachen.de" target="_blank">RWTH Aachen University &#127465;&#127466;</a> (M.Sc. Computer Engineering - ex Elektrotechnik)
   and the <a href="https://ec-nantes.fr" target="_blank">École Centrale de Nantes &#127467;&#127479;</a> (Ingénieur Généraliste Diplômé).
 
-  I am currently looking for an open position in an IT-related job, starting from Autumn 2025:
-  <mark>Software Development</mark>, <mark>Machine Learning</mark>, related fields.
+  I am currently looking for an open position in an IT-related job, starting from 2026:
+  <mark>Software Development</mark>, <mark>Machine Learning</mark>, <mark>AI Integration</mark>, related fields.
 
   I'm 24 years old and have obtained my Driver's License in France in 2019.
   Please take a look at my professional and academic experience, and my centers of interest!
 
 content:
-  - title: Professional Experience # Title for the section
+  - title: Education
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: RWTH Aachen University
+        caption: 2023 - 2025
+        sub_title: M.Sc. Electrical Engineering, Information Theory and Computer Engineering
+        description: |
+          Specialization in <a href="https://www.elektrotechnik.rwth-aachen.de/go/id/qhiq/lidx/1" target="_blank">Computer Engineering</a>.
+
+          I have had classes in domains of <mark>AI & Machine Learning</mark>, <mark>Hardware design</mark>, <mark>Virtual Reality</mark>.
+
+          I wrote my Master's Thesis on the following topic: <i><u>Deep Compression Techniques in Federated Learning: Towards Lightweight and Energy-Efficient Distributed Intelligence</u></i>. The work can be found [here](/resources/masters_thesis.pdf).
+
+      - layout: left
+        title: École Centrale de Nantes
+        caption: 2021 - 2025
+        sub_title: Engineering Programme - "Diplôme d'Ingénieur"
+        description: |
+          Highly selective French School of Engineering.
+
+          - <i>1st year:</i> General applied Engineering topics (<mark>Mathematics</mark>, <mark>Mechanical, Electrical & Industrial Engineering</mark>, <mark>Control</mark>, <mark>Computer Science</mark>)
+
+          - <i>2nd year:</i> IT specialization (<mark>Software development</mark>, <mark>Web development</mark>, <mark>Project Management</mark>, <mark>Discrete Mathematics</mark>, <mark>IT security</mark>), <mark>Management Skills</mark>.
+
+          - <i>3rd year:</i> double-degree in RWTH Aachen University
+
+          With a big implication in the associative life of the School, I also acquired much experience: <mark>Team Management</mark>, <mark>Budget Management</mark>, <mark>Leadership skills</mark>.
+
+      - layout: left
+        title: Lycée Chateaubriand, Rennes
+        caption: 2019 - 2021
+        sub_title: Classe préparatoire (<i>prep school</i>)
+        description: |
+          2-years intensive program preparing for the national competitive exams for French Schools of Engineering.
+
+          Advanced courses in Mathematics, Physics, Computer & Engineering Sciences, Philosophy, English.
+
+      - layout: left
+        title: Lycée Curie-Corot, Saint-Lô
+        caption: 2019
+        sub_title: Scientific Baccalauréat
+        description: |
+          <i>French High School degree</i>
+          
+          Advanced courses in Mathematics, Physics and Engineering Science.
+
+          European Mention (option)
+
+  - title: Professional Experience
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -65,9 +114,9 @@ content:
         link: https://www.rwth-aachen.de
         link_text: www.rwth-aachen.de
         sub_title: Scientific Assistant, Aachen (Germany)
-        caption: August 2025 - October 2025
+        caption: August 2025 - ?
         quote: >
-          One of the largest and most prestigious technical universities in Germany.
+          One of the largest and most prestigious technical universities in Germany,
           RWTH Aachen University is known for its research and teaching in engineering, natural sciences, and technology.
         description: |
             - Conducted research in the field of <mark>Federated Learning</mark> and <mark>Deep Compression Techniques</mark>.
@@ -88,7 +137,7 @@ content:
         description: |
             - Worked on <mark>Back-End Development</mark> of the new online shop for a website (PHP Symfony), in a team of 4. Bi-weekly sprints, daily meetings.
             
-            - Resolved tickets for diverse projects (Frameworks PHP Symfony and React JS, Nginx configuration), reported bugs.
+            - Resolved tickets for diverse projects (Frameworks <mark>PHP Symfony</mark> and <mark>React JS</mark>, <mark>Nginx</mark> configuration), reported bugs.
             
             - Responsible for developing a website (with <mark>Wordpress</mark>),
             multiple meetings with the clients to discuss the possibilities and meet their expectations.
@@ -96,7 +145,7 @@ content:
             
             - Communicated on social networks about a company event
             (<a href="https://instagram.com/l_echappee52" target="_blank">@l_echappee52</a> on Instagram)
-            which consisted of riding 1200km from North to South of France on a bike.
+            which consisted of riding together 1200km from North to South of France on a bike.
 
       - layout: left
         title: École Centrale de Nantes
@@ -168,55 +217,6 @@ content:
             - Prepared with them the <i>Brevet des Collèges</i> (Middle School degree).
             Specific work in English, Mathematics, History & Geography.
 
-  - title: Education
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: RWTH Aachen University
-        caption: 2023 - 2025
-        sub_title: M.Sc. Electrical Engineering, Information Theory and Computer Engineering
-        description: |
-          Specialization in <a href="https://www.elektrotechnik.rwth-aachen.de/go/id/qhiq/lidx/1" target="_blank">Computer Engineering</a>.
-
-          I have had classes in domains of <mark>Hardware design</mark>, <mark>Virtual Reality</mark>, <mark>AI & Machine Learning</mark>.
-
-          I wrote my Master's Thesis on the following topic: <i><u>Deep Compression Techniques in Federated Learning: Towards Lightweight and Energy-Efficient Distributed Intelligence</u></i>
-
-      - layout: left
-        title: École Centrale de Nantes
-        caption: 2021 - 2025
-        sub_title: Engineering Programme - "Diplôme d'Ingénieur"
-        description: |
-          Highly selective French School of Engineering.
-
-          - <i>1st year:</i> General applied Engineering topics (<mark>Mathematics</mark>, <mark>Mechanical, Electrical & Industrial Engineering</mark>, <mark>Control</mark>, <mark>Computer Science</mark>)
-
-          - <i>2nd year:</i> IT specialization (<mark>Software development</mark>, <mark>Web development</mark>, <mark>Project Management</mark>, <mark>Discrete Mathematics</mark>, <mark>IT security</mark>), <mark>Management Skills</mark>.
-
-          - <i>3rd year:</i> double-degree in RWTH Aachen University
-
-          With a big implication in the associative life of the School, I also acquired much experience: <mark>Team Management</mark>, <mark>Budget Management</mark>, <mark>Leadership skills</mark>.
-
-      - layout: left
-        title: Lycée Chateaubriand, Rennes
-        caption: 2019 - 2021
-        sub_title: Classe préparatoire (<i>prep school</i>)
-        description: |
-          2-years intensive program preparing for the national competitive exams for French Schools of Engineering.
-
-          Advanced courses in Mathematics, Physics, Computer & Engineering Sciences, Philosophy, English.
-
-      - layout: left
-        title: Lycée Curie-Corot, Saint-Lô
-        caption: 2019
-        sub_title: Scientific Baccalauréat
-        description: |
-          <i>French High School degree</i>
-          
-          Advanced courses in Mathematics, Physics and Engineering Science.
-
-          European Mention (option)
-
   - title: Personal Distinctions
     layout: list
     content:
@@ -227,7 +227,7 @@ content:
         quote: >
           Bridge is one of the most complex card games, and also one of the most developed. Most countries have their own federation and national teams.
         description: |
-            Multiple competition participations:
+            Participation in multiple competitions in France:
 
             - Normandy champion (Espérance /4) in 2018
             - Normandy champion (Promotion /4) in 2019
@@ -235,7 +235,7 @@ content:
             - U31 national finals (/4) in 2019, 2023, 2024, 2025
             - U31 national finals (/2) in 2025
 
-            Regular training practice in Nantes (2022 - 2023), Lille (2023), Aachen (2023 - now)
+            Regular training practice in Nantes (2022 - 2023), Lille (2023), Aachen (2023 - now).
 
       - layout: left
         title: Ultimate Frisbee
@@ -249,7 +249,7 @@ content:
             - 2023: <i>Challenge Centrale Lyon</i> - Champion
             - 2024: <i>3. Liga NW Open Outdoor</i> - First experience in Germany
             - 2025: <i>3. Liga NW Open Indoor</i> - Vice-champion
-            - 2025: <i>1. Liga Open Outdoor</i> - result pending
+            - 2025: <i>1. Liga Open Outdoor</i> - 7th ex-aequo, qualified for next year 1. Liga
             
       - layout: left
         title: Olympiades de Chimie
