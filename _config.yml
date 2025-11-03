@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Elouan COLYBES
-title: Dipl.Ing., M.Sc.
+title: Dipl.-Ing., M.Sc.
 email: elouan.colybes@gmail.com
 website: https://elouan50.github.io
 
@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   and the <a href="https://ec-nantes.fr" target="_blank">École Centrale de Nantes &#127467;&#127479;</a> (Ingénieur Généraliste Diplômé).
 
   I am currently looking for an open position in an IT-related job, starting from 2026:
-  <mark>Software Development</mark>, <mark>Machine Learning</mark>, <mark>AI Integration</mark>, related fields.
+  <mark>Project Management</mark>, <mark>Software Development</mark>, <mark>Machine Learning</mark>, <mark>AI Integration</mark>, related fields.
 
   I'm 24 years old and have obtained my Driver's License in France in 2019.
   Please take a look at my professional and academic experience, and my centers of interest!
@@ -110,18 +110,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: RWTH Aachen University
-        link: https://www.rwth-aachen.de
-        link_text: www.rwth-aachen.de
+        title: Chair of Information Theory and Data Analytics, RWTH Aachen University
+        link: https://www.inda.rwth-aachen.de
+        link_text: www.inda.rwth-aachen.de
         sub_title: Scientific Assistant, Aachen (Germany)
-        caption: August 2025 - ?
+        caption: August 2025 - now
         quote: >
           One of the largest and most prestigious technical universities in Germany,
           RWTH Aachen University is known for its research and teaching in engineering, natural sciences, and technology.
         description: |
             - Conducted research in the field of <mark>Federated Learning</mark> and <mark>Deep Compression Techniques</mark>.
             
-            - Wrote a scientific paper on the topic of my Master's Thesis: <i><u>Deep Compression Techniques in Federated Learning: Towards Lightweight and Energy-Efficient Distributed Intelligence</u></i>.
+            - Wrote a scientific paper on the topic of my Master's Thesis: <i><u>A Full Compression Pipeline for Green Federated Learning in Communication-Constrained Environments</u></i>.
             
             - Designed comprehensive experiments to evaluate the performance of the proposed framework in Federated Learning scenarios.
 
