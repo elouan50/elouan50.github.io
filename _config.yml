@@ -107,27 +107,50 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Chair of Information Theory and Data Analytics, RWTH Aachen University
-        link: https://www.inda.rwth-aachen.de
-        link_text: www.inda.rwth-aachen.de
-        sub_title: Scientific Assistant, Aachen (Germany)
-        caption: August 2025 - now
+        title: RWTH Aachen University
+        sub_title: Aachen (Germany)
+        link: https://rwth-aachen.de
+        link_text: rwth-aachen.de
         quote: >
           One of the largest and most prestigious technical universities in Germany,
           RWTH Aachen University is known for its research and teaching in engineering, natural sciences, and technology.
+        
+      - layout: left
+        sub_title: PhD Candidate & Research and Teaching Assistant, Chair of Information Theory and Data Analytics (INDA)
+        caption: January 2026 - now
+        link: https://www.inda.rwth-aachen.de/cms/inda/Die-Organisationseinheit/Team/~bsaefm/Elouan-Colybes/
+        link_text: inda.rwth-aachen.de
+        description: |
+            - Research in the domain of Federated Learning and Efficient Edge Computing.
+            - Teaching duties for the Institute Seminar and TI1/2 exercises.
+            - Managing the LinkedIn communication of the chair.
+
+      - layout: left
+        sub_title: Ultimate Frisbee Instructor, University Sport Center
+        caption: April 2026 - now
+        link: https://hochschulsport.rwth-aachen.de
+        link_text: hochschulsport.rwth-aachen.de
+        description: |
+            - Various replacements to fill for absent trainer.
+            - Level 1 (beginner level) for the Summer Semester 2026.
+            - Level 2-3 (intermediate/advanced) for the Winter Semester 2026/2027.
+        
+      - layout: left
+        sub_title: Scientific Assistant, Chair of Information Theory and Data Analytics (INDA)
+        caption: August 2025 - January 2026
+        link: https://inda.rwth-aachen.de
+        link_text: inda.rwth-aachen.de
         description: |
             - Conducted research in the field of <mark>Federated Learning</mark> and <mark>Deep Compression Techniques</mark>.
-            
             - Wrote a scientific paper on the topic of my Master's Thesis: <i><u>A Full Compression Pipeline for Green Federated Learning in Communication-Constrained Environments</u></i>.
-            
             - Designed comprehensive experiments to evaluate the performance of the proposed framework in Federated Learning scenarios.
 
       - layout: left
         title: GOTO Games
-        link: https://goto-games.com
-        link_text: www.goto-games.com
         sub_title: Internship, Villeneuve d'Ascq (France)
         caption: April 2023 - August 2023
+        link: https://goto-games.com
+        link_text: www.goto-games.com
         quote: >
           Founded more than 30 years ago, GOTO Games has become a world leader of online card games.
           Its vitrine product Funbridge is in a permanent growth to seduce new players.
@@ -146,9 +169,9 @@ content:
 
       - layout: left
         title: École Centrale de Nantes
+        sub_title: Nantes (France)
         link: https://ec-nantes.fr
         link_text: www.ec-nantes.fr
-        sub_title: Nantes (France)
         quote: >
           Founded in 1919, the École Centrale de Nantes is one of the oldest and most prestigious Engineering Schools in France.
           Among the 500 students graduating each year, half of them obtain an international double degree.
@@ -186,10 +209,10 @@ content:
 
       - layout: left
         title: Techneau
-        link: https://www.techneau.com
-        link_text: www.techneau.com
         sub_title: Internship, Marigny-le-Lozon (France)
         caption: June 2022 - August 2022
+        link: https://www.techneau.com
+        link_text: www.techneau.com
         quote: >
           Specialized in water treatment tanks, Techneau grew and expanded while keeping its roots.
           Still keeping its headquarters in Normandy, they have diversified their production and export abroad.
